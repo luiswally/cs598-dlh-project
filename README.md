@@ -47,19 +47,19 @@ The training and evaluation of the CNN models and non-CNN models are performed i
 
 ## Results
 
-Our model achieves performance on par with the original research (see References)
-
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+Our model achieves performance on par with the original research! (see References)
 
 ![alt text](https://github.com/luiswally/cs598-dlh-project/blob/main/results/images/all-3plus1.png)
 
+See below for comparison against original model best performance at Graded Precision for input I1.
 
 | Model name         | This model GP   | Orig. model GP |
 | ------------------ |---------------- | -------------- |
 | CNN                |     82%         |      83%       |
 
->📋  Include a table of results from your paper, and link back to the leaderboard for clarity and context. If your main result is a figure, include that figure and link to the command or notebook to reproduce it. 
+![alt text](https://github.com/luiswally/cs598-dlh-project/blob/main/results/images/all-4.png)
 
+![alt text](https://github.com/luiswally/cs598-dlh-project/blob/main/results/images/all-4.png)
 
 ## References
 
